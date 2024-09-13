@@ -57,17 +57,18 @@ main {
   height: 100vh;
 }
 
- #hero-image {
-  height: 580px;
-
+#hero-image {
+  min-height: 100vh; 
+  width: 100vw; 
   padding-top: 1px;
-  background-image: url(../image/pexels-artempodrez-4612458.jpg);
+  background-image: url(../image/katsia-jazwinska-y-IwXNMxN_o-unsplash.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
+  background-size: cover; 
+  background-position: center center; 
   position: relative;
- 
+  background-attachment: scroll;
 }
+
 
 .arco {
   position: absolute;
