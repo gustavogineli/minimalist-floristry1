@@ -58,7 +58,7 @@ main {
 }
 
 #hero-image {
-  min-height: 100vh; 
+  height: 680px;
   width: 100vw; 
   padding-top: 1px;
   background-image: url(../image/katsia-jazwinska-y-IwXNMxN_o-unsplash.jpg);
@@ -76,7 +76,7 @@ main {
   left: 25%;
   width: 50%;
   height: 60%;
-  background-color:#efe3d947;
+  background-color:#efe3d980;
 
   border-top-left-radius: 100%;
   border-top-right-radius: 100%;
