@@ -61,9 +61,9 @@ main {
   height: 580px;
 
   padding-top: 1px;
-  background-image: url(../images/hero-image.jpg);
+  background-image: url(../image/pexels-artempodrez-4612458.jpg);
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size: cover;
   background-position: center center;
   position: relative;
  
